@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Ciarán Monaghan ciaranmonaghan72@gmail.com
 
 # THANKS
 
